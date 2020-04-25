@@ -1,0 +1,13 @@
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\bin\Debug\Ofi.exe.config
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\bin\Debug\Ofi.exe
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\bin\Debug\Ofi.pdb
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.csprojAssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.window.resources
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.Properties.Resources.resources
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.ServerConfig.resources
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.splash.resources
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.csproj.GenerateResource.cache
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.exe
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.pdb
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.Gateway.resources
+C:\Users\Jan\Documents\GitHub\C-\IP Catcher\Ofi\obj\Debug\Ofi.csproj.CoreCompileInputs.cache
